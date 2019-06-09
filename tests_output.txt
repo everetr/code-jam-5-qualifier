@@ -1,0 +1,15 @@
++ The function returns a string.
++ The password generated was the correct length.
++ The implementation returns a different password with each call.
++ The password contained a symbol when required. The password generated was d>
++ The password contained an uppercase letter when required. The password generated was B?
++ The generator raises a UserWarning when both ignored and allowed chars are provided.
++ When generating a password with 1 million characters, the execution time was 1.19 seconds.
++ Only allowed characters were found in a password when allowed_chars was provided.
++ No ignored characters were found in a password when ignored_chars was provided.
+
+===  Your score is 100%  === 
+
+* You have completed all the basic requirements, and have successfully qualified for the code jam.
+* You have completed all the bonus requirements, and will be considered an advanced user.
+
